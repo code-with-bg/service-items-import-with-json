@@ -1,0 +1,57 @@
+[
+    {"image":"person.jpg",
+    "heading":"Web Solutions",
+    "list":[
+        "Portal Development",
+        "Web Application Development",
+        "Content Management System",
+        "API Integration",
+        "E-Commerce"
+    ]},
+  
+    {"image":"person1.jpg",
+    "heading":"Co operative Design ",
+    "list":[
+        "Animated Company Profile",
+        "Corporate Infographics (Print and Animation)",
+        "Corporate Merchandise Designs",
+        "Brand Merchandise Designs",
+        "Commercial Photography (Product, Architecture, Events and People)",
+        "Television Commercials (TVCs)"
+    ]
+    },
+
+
+
+    {"image":"person2.jpg",
+    "heading":"Graphic design and Animation",
+    "list":[
+        "Motion Graphics",
+        "2D Animation",
+        "3D Animation",
+        "Visual Effects (VFX)",
+        "Poster and Print Designs"
+    ]},
+
+
+    {"image":"person3.jpg",
+    "heading":"Mobile Application Development",
+    "list":[
+        "GPS Tracking",
+        "Sales Ordering",
+        "Graphical Report",
+        "Smart Order",
+        "Order Managemen"
+    ]},
+                
+    {"image":"person4.jpg",
+    "heading":"Web hosting and domain registration",
+    "list":[
+        "Domain Registration",
+        "Website Hosting",
+        "Email Hosting",
+        "SSL Certification",
+        "Linux VPS Hosting",
+        "Windows VPS Hosting"
+    ]}
+]
